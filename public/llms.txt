@@ -10,6 +10,7 @@
 - [Shipping workflow](https://nodedots.com/doc/shipping): Policies, intent briefs, CI snapshots, and release assessments.
 - [Sharing](https://nodedots.com/doc/sharing): Permission-checked reports and exported handoffs.
 - [Troubleshooting](https://nodedots.com/doc/troubleshooting): Auth, access, reviews, and missing signals.
+- [Pre-flight CLI](https://nodedots.com/doc/pre-flight-cli): Local staged, working-tree, and commit checks; source preview, not an npm release.
 - [Waitlist](https://nodedots.com/waitlist): Early-access email signup.
 - [Future directions](https://nodedots.com/vision): Exploratory concepts, not released services.
 - [Legal and trust](https://nodedots.com/legal): Terms, privacy, cookies, security, analysis disclosure, and license.

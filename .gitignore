@@ -48,3 +48,9 @@ next-env.d.ts
 .wrangler/
 .dev.vars*
 cloudflare-runtime.d.ts
+/packages/cli/dist/
+/packages/cli/LICENSE
+/packages/cli/NOTICE
+/packages/cli/*.tgz
+
+/nodedots-cli-*.tgz

@@ -1,0 +1,11 @@
+{
+ "name":"@nodedots/cli",
+ "version":"0.1.0",
+ "private":true,
+ "description":"Local advisory pull request pre-flight analysis for supported JavaScript and TypeScript repositories",
+ "license":"Apache-2.0",
+ "bin":{"nodedots":"dist/nodedots.cjs"},
+ "files":["dist","LICENSE","NOTICE","README.md"],
+ "engines":{"node":">=22"},
+ "repository":{"type":"git","url":"https://github.com/0x-Sigmoid/nodedots.git","directory":"packages/cli"}
+}

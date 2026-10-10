@@ -9,7 +9,7 @@ export const productItems = [
   item("code", "NodeDots Code", "/#hero-title", "Impact reports on every GitHub pull request.", "code", "live", "product", undefined, true),
   item("impact-reports", "Pull request impact reports", "/#how-it-works", "What a change touches, misses, or breaks.", "report", "live", "product", undefined, true),
   item("ai-verification", "AI code verification", "/#preview", "Check what a coding agent forgot.", "check", "live", "product", undefined, true),
-  item("pre-flight-cli", "Pre-flight CLI", "/product/pre-flight-cli", "Run nodedots check before you push.", "terminal", "planned", "product"),
+  item("pre-flight-cli", "Pre-flight CLI", "/product/pre-flight-cli", "Local checks before you push. Source preview.", "terminal", "live", "product"),
   item("software-memory", "Software memory", "/product/software-memory", "Why does this exist? What changes with it?", "memory", "planned", "product"),
 ] as const;
 export const useCaseItems = [

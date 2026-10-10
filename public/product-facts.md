@@ -19,3 +19,7 @@ Full guides: https://nodedots.com/doc
 Current data handling: https://nodedots.com/privacy
 Necessary browser storage: https://nodedots.com/cookies
 Analysis disclosure: https://nodedots.com/ai-disclosure
+
+## Local Pre-flight CLI source preview
+
+Build from the NodeDots repository with npm run cli:build. Check staged changes, working-tree files, or two locally available commits with terminal or JSON output and optional failure policies. No GitHub connection, source upload, external AI call, or running web app is needed. This package is not published to npm. Local checks can examine accessible public or private repositories; hosted beta restrictions are separate. Coverage limits remain advisory. Guide: https://nodedots.com/doc/pre-flight-cli
